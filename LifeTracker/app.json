@@ -11,7 +11,7 @@
     "slug": "LifeTracker",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assests/icon.png",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light"
   }
 }
